@@ -1,0 +1,5 @@
+[2022-01-30 14:18:29.526] [main] [info] update#setState idle
+[2022-01-30 14:18:29.551] [main] [info] ExtensionHostStarterWorker created
+[2022-01-30 14:18:30.380] [main] [info] Starting extension host with pid 7728 (fork() took 5 ms).
+[2022-01-30 14:18:34.289] [main] [info] Extension host with pid 7728 exited with code: 0, signal: null.
+[2022-01-30 14:18:34.289] [main] [info] Waiting for extension host with pid 7728 to exit.

@@ -1,0 +1,12 @@
+[2022-01-30 12:25:15.025] [exthost] [info] Extension host with pid 4696 started
+[2022-01-30 12:25:15.025] [exthost] [info] Skipping acquiring lock for /home/jack/.config/Code/User/workspaceStorage/e1954e745910017577005a9dc2c44c62.
+[2022-01-30 12:25:15.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-30 12:25:15.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-30 12:25:15.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-30 12:25:15.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-30 12:25:15.135] [exthost] [info] Eager extensions activated
+[2022-01-30 12:25:15.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-30 12:25:15.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-30 12:25:15.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-30 12:25:16.181] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-30 12:25:16.183] [exthost] [info] Extension host with pid 4696 exiting with code 0

@@ -1,0 +1,7 @@
+[2022-01-30 17:34:02.162] [sharedprocess] [info] Starting worker process with pid 2565 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-30 17:34:10.675] [sharedprocess] [info] Installing extension: enkia.tokyo-night
+[2022-01-30 17:34:11.364] [sharedprocess] [info] Downloaded extension: enkia.tokyo-night /home/jack/.config/Code/CachedExtensionVSIXs/enkia.tokyo-night-0.8.4
+[2022-01-30 17:34:11.398] [sharedprocess] [info] Extracted extension to /home/jack/.vscode/extensions/.b436728a-fd55-43ea-a747-609c7c14c3a8: enkia.tokyo-night
+[2022-01-30 17:34:11.405] [sharedprocess] [info] Renamed to /home/jack/.vscode/extensions/enkia.tokyo-night-0.8.4
+[2022-01-30 17:34:11.405] [sharedprocess] [info] Extracting completed. enkia.tokyo-night
+[2022-01-30 17:34:11.407] [sharedprocess] [info] Extension installed successfully: enkia.tokyo-night

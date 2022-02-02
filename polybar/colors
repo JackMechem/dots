@@ -1,0 +1,32 @@
+;    ____ ___  _     ___  ____  ____  
+;   / ___/ _ \| |   / _ \|  _ \/ ___| 
+;  | |  | | | | |  | | | | |_) \___ \ 
+;  | |__| |_| | |__| |_| |  _ < ___) |
+;   \____\___/|_____\___/|_| \_\____/ 
+
+[nord]
+nord00 = #1A1B26
+nord0  = #3A3F4B
+nord1  = #F7768E
+nord2  = #E0AF68
+nord3  = #A9B1D6
+nord4  = #7AA2F7
+nord5  = #D19A66
+
+; workspaces
+nord6  = #A9B1D6
+
+nord7  = #ACB0D0
+nord8  = #4E5173
+
+; wifi
+nord9  = #9ECE6A
+
+; time
+nord10 = #A9B1D6
+
+nord11 = #98C379
+nord12 = #D08770
+nord13 = #EBCB8B
+nord14 = #A3BE8C
+nord15 = #B48EAD

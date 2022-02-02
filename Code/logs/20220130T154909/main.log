@@ -1,0 +1,4 @@
+[2022-01-30 15:49:09.291] [main] [info] update#setState idle
+[2022-01-30 15:49:09.317] [main] [info] ExtensionHostStarterWorker created
+[2022-01-30 15:49:10.078] [main] [info] Starting extension host with pid 5616 (fork() took 6 ms).
+[2022-01-30 15:49:22.046] [main] [info] Extension host with pid 5616 exited with code: 0, signal: null.

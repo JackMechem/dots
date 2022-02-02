@@ -1,0 +1,5 @@
+2022/01/30-12:19:50.577 e1f Creating DB /home/jack/.config/discord/Local Storage/leveldb since it was missing.
+2022/01/30-12:19:50.587 e1f Reusing MANIFEST /home/jack/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/01/30-12:20:59.492 e1e Level-0 table #5: started
+2022/01/30-12:20:59.499 e1e Level-0 table #5: 166586 bytes OK
+2022/01/30-12:20:59.502 e1e Delete type=0 #3

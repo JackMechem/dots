@@ -1,0 +1,52 @@
+[org/virt-manager/virt-manager/vmlist-fields]
+disk-usage=false
+network-traffic=false
+
+[org/virt-manager/virt-manager]
+manager-window-width=976
+manager-window-height=521
+
+[org/virt-manager/virt-manager/connections]
+uris=['qemu:///system']
+autoconnect=['qemu:///system']
+
+[org/gtk/settings/file-chooser]
+window-position=(410, 127)
+window-size=(1096, 822)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=152
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/virt-manager/virt-manager/paths]
+media-default='/home/jack/Downloads'
+
+[org/virt-manager/virt-manager/urls]
+isos=['/home/jack/Downloads/install-amd64-minimal-20220130T170547Z.iso']
+
+[org/virt-manager/virt-manager/vms/9bca62ed169745ec9daf59cfc6a4c174]
+scaling=1
+autoconnect=1
+
+[org/virt-manager/virt-manager/details]
+show-toolbar=true
+
+[org/virt-manager/virt-manager/confirm]
+forcepoweroff=true
+
+[org/virt-manager/virt-manager/vms/63a062655e4d4e9f8453b1673199ca0a]
+scaling=1
+autoconnect=1
+vm-window-size=(900, 1017)
+
+[org/virt-manager/virt-manager/new-vm]
+graphics-type='system'
+
+[org/virt-manager/virt-manager/conns/qemu:system]
+window-size=(900, 1017)
